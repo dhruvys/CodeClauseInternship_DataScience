@@ -1,4 +1,8 @@
-## ***CodeClauseInternship_DataScience***
+## ***CodeClause DataScience Internship***
+
+# Batch Sep-24
+
+# This repo consist of my intership task in CodeClause Internsip Program
 
 ## ***Fraud Detection using ML Model***
 
